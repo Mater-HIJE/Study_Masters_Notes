@@ -16,15 +16,15 @@
 
 	> 	NOTE:  KALI WSL is always starting with ROOT USER. That is not good foe beginners, so you need to create new user for you. That can be done by:  
 	> 	
-	> 		$$adduser (username_you_want) sudo$$
-	> 			Adding a new user and adding the new user into sudo) group.
-	> 			It needs password for you user and some more information that you can skip it by using enter button.
+	> $$adduser (username_you_want) sudo$$
+	> 	Adding a new user and adding the new user into sudo) group.
+	> 	It needs password for you user and some more information that you can skip it by using enter button.
 	> 		
-	> 		$$su - (username you want)$$
-	> 			To change to your user. (BE SURE to add a space before your user)
+	> $$su - (username you want)$$
+	> 	To change to your user. (BE SURE to add a space before your user)
 	> 			
-	> 		$$exit$$
-	> 			To return to your root user.
+	> $$exit$$
+	> 	To return to your root user.
 7. Start by updating and Upgrading the system.
 8. Start installing your tools.
 9. If you want to add GUI for KALI WSL, then GO ON AMD WRITE:
