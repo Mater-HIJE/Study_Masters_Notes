@@ -1,6 +1,6 @@
 In today’s digital age, information is power. Whether you’re a journalist, researcher, cybersecurity expert, or just a curious individual, having access to the right information-gathering tools can make a world of difference. In this blog post, I’ll explore a comprehensive list of information-gathering tools that are accessible and user-friendly, empowering you to become a digital detective in your own right.
 
-! [IMAGE](https://cdn.dribbble.com/users/1954667/screenshots/4166040/gather-customer-data-2.gif)
+![IMAGE](https://cdn.dribbble.com/users/1954667/screenshots/4166040/gather-customer-data-2.gif)
 
 So... information gathering is a stone-base in pentesting. with no information, there nothing to do. Because that, we starting with information gathering. the goal of this **long** session not just to know to to gather information only, ==but to master gathering.==
 
